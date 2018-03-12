@@ -17,3 +17,10 @@ O recrutado escolhe entre CLT ou PJ.
 
 A BRA Consultoria é hoje o maior player em market share no segmento de Regimes Próprios de Previdência Social, atendendo a mais de uma centena de institutos de previdência social, prefeituras e câmaras de vereadores no país inteiro. Nossa unidade de desenvolvimento fica em Olinda, Pernambuco, no bairro Jardim Atlântico.
 
+# Coisas interessantes sobre nós
+
+* Trabalhamos apenas com o que há de mais inovador em tecnologia, tanto no desenvolvimento em si, quanto na parte de infraestrutura;
+* Abolimos o banco relacional; um salve para o MongoDB! 
+* Nosso modelo data center é de computação distribuída;
+* Nossa arquitetura de desenvolvimento é em micro-API's de microservices;
+* Se dá para fazer melhor, faça melhor!
