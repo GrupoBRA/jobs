@@ -1,4 +1,4 @@
-# Trabalhe conosco
+# Temos vagas!
 Divulgamos aqui as vagas disponíveis na BRA Consultoria.
 
 As vagas ficam disponíveis neste link: https://github.com/BRAConsultoria/jobs/issues
