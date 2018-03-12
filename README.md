@@ -5,7 +5,7 @@ As vagas ficam disponíveis neste link: https://github.com/BRAConsultoria/jobs/i
 
 # Como se candidatar
 
-Como domínio do Git é uma obrigatoriedade para trabalhar com a gente, se você tem interesse em uma das vagas, clone este repositório e faça um push/pull-request com o seu currículo para a branch master. A partir daí é com a gente!
+Como domínio do Git é uma obrigatoriedade para trabalhar com a gente, se você tem interesse em uma das vagas, clone este repositório, anexe o seu currículo na raiz faça um commit e push para uma branch com o seu {nome_sobrenome}. Em seguida, faça um pull-request da sua branch para a branch master. A partir daí é com a gente!
 
 Não recebemos currículo de outra forma.
 
